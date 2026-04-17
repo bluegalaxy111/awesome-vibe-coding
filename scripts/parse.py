@@ -80,7 +80,7 @@ def parse_readme():
             
     import os
     os.makedirs("data", exist_ok=True)
-    with open("data/tools.json", "w") as f:
+    with open("docs/data/tools.json", "w") as f:
         json.dump({"categories": categories}, f, indent=2)
         
     with open("data/template.md", "w") as f:

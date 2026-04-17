@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function loadData() {
     try {
-        const response = await fetch('../data/tools.json');
+        const response = await fetch('data/tools.json');
         const data = await response.json();
         
         data.categories.forEach(category => {

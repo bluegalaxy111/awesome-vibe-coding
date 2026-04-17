@@ -1,10 +1,10 @@
 import json
 
 def build_readme():
-    with open("data/template.md", "r") as f:
+    with open("docs/data/template.md", "r") as f:
         intro = f.read()
         
-    with open("data/tools.json", "r") as f:
+    with open("docs/data/tools.json", "r") as f:
         data = json.load(f)
         
     out = intro
