@@ -1,8 +1,15 @@
-# Awesome Vibe Coding 
+# 🚀 Awesome Vibe Coding 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-> A curated list of **500+** tools, platforms, resources, and communities for **vibe coding** - the practice of building software by describing what you want to an AI and letting it handle the implementation.
+> **💡 WE HAVE A WEB APP:** Finding the right tools takes too long. Stop reading markdown and try the official interactive directory:  
+> **👉 [Explore the Interactive Web Directory Here](https://bluegalaxy111.github.io/awesome-vibe-coding/) 👈**
+> 
+> *It features real-time typo-tolerant search, CLI install snippets, Side-by-Side Tool Comparisons, and LocalStorage for saving your custom stack.* 
+
+The definitive directory for the next era of software development. Vibe coding simplifies development through AI agents, enabling builders to ship highly complex products rapidly.
 
 The term was [coined by Andrej Karpathy](https://x.com/karpathy/status/1886192184808149383) in February 2025:
 

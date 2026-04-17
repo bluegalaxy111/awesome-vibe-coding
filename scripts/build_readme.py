@@ -30,7 +30,7 @@ def build_readme():
         # Don't add a separator after the last category if it's not needed,
         # but in awesome lists there is usually a "Ways to contribute" or something at the end.
         
-    with open("README-generated.md", "w") as f:
+    with open("README.md", "w") as f:
         f.write(out)
 
 def format_tool(tool):
