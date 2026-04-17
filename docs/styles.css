@@ -438,3 +438,54 @@ dialog::backdrop { background: rgba(0,0,0,0.4); backdrop-filter: blur(5px); }
     box-shadow: 0 10px 30px rgba(0,0,0,0.15); font-size: 0.9rem;
 }
 .toast.show { opacity: 1; transform: translateY(0); }
+
+/* Mobile Responsiveness */
+@media (max-width: 900px) {
+    .app-container {
+        grid-template-columns: 1fr;
+        padding: 2rem 1rem;
+        gap: 2rem;
+    }
+    
+    .sidebar {
+        position: static;
+        height: auto;
+        overflow-y: visible;
+        margin-bottom: 1rem;
+        padding-bottom: 2rem;
+        border-bottom: 1px solid var(--border-color);
+    }
+    
+    .hero {
+        padding: 4rem 1.5rem 3rem;
+    }
+    
+    .gradient-text {
+        font-size: 2.2rem;
+    }
+    
+    .hero p {
+        font-size: 1.1rem;
+    }
+    
+    .tools-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .results-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+    
+    .compare-bar {
+        width: 90%;
+        gap: 1rem;
+        padding: 0.75rem 1rem;
+        justify-content: space-between;
+    }
+    
+    .compare-bar span {
+        display: none; /* Hide text on mobile, just show buttons */
+    }
+}
