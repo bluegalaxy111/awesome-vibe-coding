@@ -54,9 +54,10 @@ Don't just pick one tool. **Pick your workflow.**
 ### 🔴 Level 3: "I'm a Power User. Give me Terminal Agents."
 *You want maximum control, privacy, and the ability to pipe different AI models (like Claude, Gemini, or Local Models) into your workflow.*
 
-- 🧠 **For Maximum Reasoning Power:** 👉 Use **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)**
-  - **Why it wins:** Anthropic's terminal agent natively harnesses Claude's 1M+ token context window. Best-in-class for deeply complex debugging.
-  - **Performance Context:** As of April 2026, Claude Opus variants paired with agentic scaffolding dominate the SWE-bench Verified leaderboard (consistently hitting between 75% and 82%).
+- 🧠 **For Maximum Reasoning Power (API/CLI):** 👉 Use **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** or **[OpenAI Codex](https://openai.com/index/openai-codex/)**
+  - **Why Claude wins:** Anthropic's terminal agent natively harnesses Claude's 1M+ token context window. Best-in-class for deeply complex debugging.
+  - **Why Codex wins:** The pioneer in generative coding models, heavily updated for 2026. OpenAI's direct Codex CLI integrations offer unmatched latency and deep logical puzzle-solving via o1/Codex reasoning architectures.
+  - **Performance Context:** As of April 2026, Claude Opus variants and OpenAI Codex (o1-tier) paired with agentic scaffolding dominate the SWE-bench Verified leaderboard (consistently hitting between 75% and 82%).
   - **Quick Start:** `npm install -g @anthropic-ai/claude-code` → `claude`
   - **Cost Thresholds:** Pay-per-token API pricing. **Warning:** Extensive context use can rack up a $10 bill in a few hours if you aren't careful.
 
@@ -73,6 +74,10 @@ Don't just pick one tool. **Pick your workflow.**
 - 🤖 **For Enterprise-Grade Autonomy:** 👉 Use **[Devin](https://devin.ai)**
   - **Why it wins:** The first fully sandboxed autonomous SWE. Incredible capabilities for handling full DevOps pipelines and deployments independently.
   - **Cost:** Enterprise pricing.
+
+- ✨ **For Advanced Concurrent Agentic Power:** 👉 Use **[Google Antigravity](https://deepmind.google/technologies/antigravity)**
+  - **Why it wins:** Designed by Google DeepMind, Antigravity introduces revolutionary "Planning Mode" paradigms combined with extreme parallel tool execution. It acts less like a simple code editor and more like a Chief Technology Officer managing a local multi-agent system.
+  - **Performance Benchmark:** Antigravity excels in navigating massive monorepos by dynamically creating multi-step implementation plans and requesting human architectural feedback *before* mutating code.
 
 - 🔓 **The Open Source Champion:** 👉 Use **[OpenHands](https://github.com/All-Hands-AI/OpenHands)**
   - **Why it wins:** The premier free, self-hosted alternative to Devin. Run it locally via Docker, hook it up to Claude's API, and let it resolve your GitHub PRs autonomously. 
@@ -94,6 +99,7 @@ If you are evaluating tools for an engineering team, don't rely on generic featu
 2. **[Terminal Agents: Claude Code vs. OpenCode (vs. Aider)](comparisons/claude-code-vs-opencode.md)**
 3. **[App Builders: Lovable vs. Bolt.new vs. v0](comparisons/lovable-vs-bolt-vs-v0.md)**
 4. **[Autonomous SWEs: Devin vs. OpenHands](comparisons/devin-vs-openhands.md)**
+5. **[System Architectures: Google Antigravity vs. OpenAI Codex](comparisons/antigravity-vs-codex.md)**
 
 ---
 
@@ -103,6 +109,17 @@ Don't start from scratch. Use our April 2026 standardized templates to instantly
 - 🛠️ **[Advanced `.cursorrules` Template](templates/cursorrules-advanced.md)** (TypeScript/Next.js focused system instructions)
 - 🖥️ **[Terminal Agent `CLAUDE.md` Template](templates/claude-system-prompt.md)** (Safety and TDD rules for CLI tools like Claude Code and Aider)
 - 📋 **[Internal Team "Vibe Guide"](templates/vibe-guide.md)** (An Engineering Manager's policy for teams using AI)
+
+### 🍳 The Prompt Recipes Cookbook
+Context Engineering is the hardest part of AI development. Don't write prompts from scratch; use our framework-agnostic snippets:
+- 📝 **[01. The New Project Checklist](prompts/01-new-project-checklist.md)**
+- 🏗️ **[02. Architecture Scaffolding Prompts](prompts/02-architecture-scaffolding.md)**
+- 🐛 **[03. Debugging & Refactoring Prompts](prompts/03-debugging-and-refactoring.md)**
+
+### 📦 Vibe Coding Starter Kits
+Need to instantiate a perfect environment? Use our setup guides:
+- ✨ **[Google Antigravity Elite Terminal Setup](starters/antigravity-terminal-stack.md)** (For massive concurrent logic tasks)
+- 🌐 **[The Universal Web Stack](starters/universal-web-stack.md)** (For standard Cursor / Next.js web applications)
 
 ---
 
