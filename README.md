@@ -97,6 +97,15 @@ If you are evaluating tools for an engineering team, don't rely on generic featu
 
 ---
 
+## ⚡ Instant Value: Copy/Paste Templates
+Don't start from scratch. Use our April 2026 standardized templates to instantly upgrade how your AI coding tools behave. Drop these into your repositories right now:
+
+- 🛠️ **[Advanced `.cursorrules` Template](templates/cursorrules-advanced.md)** (TypeScript/Next.js focused system instructions)
+- 🖥️ **[Terminal Agent `CLAUDE.md` Template](templates/claude-system-prompt.md)** (Safety and TDD rules for CLI tools like Claude Code and Aider)
+- 📋 **[Internal Team "Vibe Guide"](templates/vibe-guide.md)** (An Engineering Manager's policy for teams using AI)
+
+---
+
 ## Contents
 
 - [AI Coding Agents](#ai-coding-agents)
