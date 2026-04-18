@@ -106,6 +106,14 @@ Don't start from scratch. Use our April 2026 standardized templates to instantly
 
 ---
 
+## 🚧 How to Not Fail: Common Mistakes
+AI coding tools are force multipliers, meaning they multiply your mistakes just as fast as your successes. Read our Deep Dive guides so you don't fall into the same expensive traps as everyone else:
+
+- ❌ **[5 Mistakes Everyone Makes with Cursor (and How to Fix Them)](guides/mistakes-cursor.md)**
+- 💸 **[5 Mistakes Everyone Makes with Claude Code & Terminal Agents](guides/mistakes-claude-code.md)**
+
+---
+
 ## Contents
 
 - [AI Coding Agents](#ai-coding-agents)
