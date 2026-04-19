@@ -556,6 +556,7 @@ AI tools for deployment, CI/CD, cloud management, and infrastructure.
 - [Neon](https://neon.tech) - Serverless Postgres with branching, autoscaling, and a generous free tier. **[Freemium]**
 - [Terraform AI](https://www.hashicorp.com/blog/introducing-ai-assisted-terraform-development) - Infrastructure as code with AI assistance for generating cloud configurations. **[Freemium]**
 - [Pulumi AI](https://www.pulumi.com/ai/) - Generate infrastructure as code from natural language descriptions. **[Freemium]**
+- [Codex Infinity](https://codex-infinity.com) - Infinite coding agent that lets you run your OpenAI Codex or Claude Max plans on bare metal VPS. Full root access, no cloud timeouts. **[Paid]**
 ## AI for Mobile Development
 
 Build mobile apps with AI assistance.
