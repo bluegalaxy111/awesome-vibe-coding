@@ -318,6 +318,7 @@ AI tools that automatically review pull requests, catch bugs, and enforce standa
 - [Sourcery](https://sourcery.ai) - AI-powered code review focused on Python. Suggests refactorings and catches anti-patterns. **[Freemium]**
 - [What The Diff](https://whatthediff.ai) - AI that writes PR descriptions and reviews your code changes in human-readable language. **[Freemium]**
 - [GitHub Copilot Code Review](https://github.blog/changelog/2024-10-29-copilot-code-review-in-github-com) - GitHub's built-in AI code review in pull requests. **[Included With Copilot Subscription]**
+- [sober-coding](https://github.com/voidborne-d/sober-coding) - Rule-based static analyzer for AI-generated code smells. 27 checks across 7 dimensions (orphaned helpers, mock-vs-real divergence, defensive overuse, scope drift). Runs as CLI or CI step, no LLM calls — pairs with the LLM-based reviewers above. **[Free]** **[Open Source]**
 ## AI for Design → Code
 
 Turn designs, mockups, screenshots, and wireframes into working code.
