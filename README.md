@@ -252,6 +252,7 @@ AI agents designed to work as fully autonomous "junior developers" - they plan, 
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - Simpler, agentless approach to solving coding tasks - no complex agent scaffolding needed. **[Free]** **[Open Source]**
 - [Cosine Genie](https://cosine.sh) - AI software engineer trained on real-world codebases. Understands complex repos and makes changes autonomously. **[Paid]**
 - [Factory AI](https://www.factory.ai) - Enterprise autonomous coding platform. Droids that handle refactoring, migrations, and code modernization. **[Enterprise]**
+- [SwarmClaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent runtime that delegates to Claude Code, Codex, Gemini CLI, OpenCode, Copilot CLI, Cursor Agent, Goose, Qwen Code, and Droid. Org chart view, schedules, runtime skills, persistent memory, sub-agent spawning, MCP-native. Electron desktop app, CLI, and Docker. **[Free]** **[Open Source]**
 ## AI App Builders (No-Code)
 
 Platforms where you describe an app in plain English and get a working, deployable application - the purest form of vibe coding. **No coding knowledge needed.**
@@ -417,6 +418,7 @@ The emerging discipline of feeding AI the right context to improve output qualit
 - [Codetex](https://codetex.io) - Convert your code into context-optimized formats for AI consumption. **[Free]**
 - [llms.txt Standard](https://llmstxt.org) - Proposed standard for websites to provide LLM-friendly versions of their content (like robots.txt but for AI). **[Specification]**
 - [CONTRIBUTING.md / CLAUDE.md patterns](https://docs.anthropic.com/en/docs/claude-code/memory) - Using project documentation files to give AI agents architectural context, coding standards, and project-specific instructions.
+- [SwarmVault](https://github.com/swarmclawai/swarmvault) - Local-first RAG knowledge vault. Compiles raw sources (books, notes, transcripts, exports, docs, code) into a durable markdown wiki with a knowledge graph and a hybrid SQLite FTS plus embeddings index. Built-in MCP server (`npx -y @swarmvaultai/cli mcp`) lets Claude Code, Codex, OpenCode, and any MCP client retrieve compact wiki summaries instead of repeatedly re-reading raw files - direct token savings on long sessions. **[Free]** **[Open Source]**
 ## MCP Servers for Coding
 
 [Model Context Protocol (MCP)](https://modelcontextprotocol.io) is an open standard by Anthropic that lets AI agents securely connect to tools, databases, and services. Think of it as "plugins for AI."
