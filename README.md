@@ -224,6 +224,7 @@ AI agents that operate from your terminal, reading, writing, and executing code 
 - [Roo Code](https://github.com/RooVetGit/Roo-Code) - Fork of Cline with additional features like multiple agent modes (Code, Architect, Ask) and custom instructions per-mode. **[Free]** **[Open Source]**
 - [Goose](https://github.com/block/goose) - Open-source AI agent by Block (formerly Square) that automates coding tasks in your terminal. Extensible via MCP. **[Free]** **[Open Source]**
 - [Plandex](https://github.com/plandex-ai/plandex) - Terminal-based AI coding agent designed for complex, multi-file tasks with built-in version control for AI changes. **[Free]** **[Open Source]**
+- [Parallel Code](https://github.com/johannesjo/parallel-code) - Open-source desktop app for running Claude Code, Codex CLI, Gemini CLI, or other CLI agents in parallel, each in its own git worktree, with terminal panes, diff review, and merge controls. **[Free]** **[Open Source]**
 - [Amp](https://amp.dev) - AI coding agent from Sourcegraph. Terminal and IDE modes with deep code intelligence integration. **[Free Tier Available]**
 - [Blackbox AI](https://www.blackbox.ai) - Multi-model AI coding agent that uses a "Chairman" architecture - sends tasks to multiple models in parallel and picks the best result. **[Freemium]**
 ### Browser-Based
@@ -1017,4 +1018,3 @@ I aim to review all PRs within 24 hours.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
-
