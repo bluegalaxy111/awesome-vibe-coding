@@ -494,6 +494,7 @@ Visual and code-based tools for connecting AI agents into automated pipelines.
 - [Make (Integromat)](https://www.make.com) - Visual automation platform with AI integrations. More granular control than Zapier. **[Freemium]**
 - [Pipedream](https://pipedream.com) - Developer-first automation platform. Write code + visual builder + AI. **[Freemium]**
 - [Activepieces](https://www.activepieces.com) - Open-source alternative to Zapier with AI automation pieces. **[Free]** **[Open Source]**
+- [Agent FM](https://github.com/agentfm-ai/agent-fm) - Local, open-source macOS awareness layer for Claude Code and Codex sessions, with station-level listening, Global Mix, blocker alerts, and BYOK narration. **[Free]** **[Open Source]**
 ## Multi-Agent Frameworks
 
 Frameworks for orchestrating multiple AI agents working together on complex tasks.
@@ -1017,4 +1018,3 @@ I aim to review all PRs within 24 hours.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
-
