@@ -215,6 +215,7 @@ AI agents that operate from your terminal, reading, writing, and executing code 
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - Anthropic's terminal-native agentic coding tool. Best-in-class reasoning with Claude Opus/Sonnet. Can read/write files, run commands, search codebases, and manage git. *Personal pick - best for complex, multi-file tasks.* **[Requires Claude Max Subscription]**
 - [Codex CLI](https://github.com/openai/codex-cli) - OpenAI's open-source CLI coding agent. Lightweight, fast, runs locally with configurable autonomy levels. **[Free]** **[Open Source]**
+- [codex-profiles](https://github.com/Ducksss/codex-profiles) - Bash CLI helper for switching Codex CLI and Codex Desktop accounts via isolated CODEX_HOME profiles. **[Free]** **[Open Source]**
 - [Aider](https://aider.chat) - Open-source AI pair programming in your terminal. Git-aware, works with any LLM. One of the original CLI coding tools. Best-in-class for its edit format system. *Personal pick - best open-source option.* **[Free]** **[Open Source]**
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's open-source terminal AI agent. Integrates with Gemini models with 1M token context. **[Free]** **[Open Source]**
 - [Amazon Q Developer CLI](https://aws.amazon.com/q/developer/) - AWS's AI coding assistant for terminal with deep AWS infrastructure integration. **[Free Tier Available]**
