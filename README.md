@@ -349,6 +349,7 @@ AI tools that help find bugs, generate tests, explain errors, and ensure code qu
 - [Snyk](https://snyk.io) - AI-assisted security scanning for dependencies, code, containers, and infrastructure-as-code. **[Freemium]**
 - [Socket](https://socket.dev) - Detects supply chain attacks and malicious code in open source dependencies before they reach your project. **[Freemium]**
 - [Sentry AI](https://sentry.io) - Error monitoring platform with AI-powered issue grouping, root cause analysis, and fix suggestions. **[Freemium]**
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Local TUI for inspecting AI coding agent sessions, including cost, token usage, latency, failures, and reports. **[Free]** **[Open Source]**
 - [Codex by Machinet](https://machinet.net) - AI unit test generation for Java. Generates JUnit tests with high code coverage. **[Freemium]**
 - [Diffblue Cover](https://www.diffblue.com) - Autonomous AI that writes Java unit tests at scale. Enterprise-focused. **[Paid]**
 - [Meticulous](https://www.meticulous.ai) - AI-generated end-to-end tests. Records user sessions and auto-generates tests that catch visual and functional regressions. **[Paid]**
