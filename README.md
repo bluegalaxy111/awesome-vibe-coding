@@ -382,6 +382,7 @@ How to write better prompts that produce better AI-generated code.
 - [Learn Prompting](https://learnprompting.org) - Free, open-source guide to prompt engineering. Covers basics to advanced techniques.
 - [Cursor Prompting Tips](https://docs.cursor.com/guides) - Cursor's official guide to getting the best results from Composer, Tab, and Chat.
 - [Vibe Coding Academy](https://vibecodingacademy.ai) - Dedicated learning platform for vibe coding techniques and AI-assisted development workflows.
+- [vibeprompt](https://vibeprompt.tech) - Free 10-step vibe coding workflow with 56 copy-paste prompts, 17 deep-dive articles, 46 field-tested fixes for common AI-coding failures, and an interactive AGENTS.md + PRD generator. Open source, MIT.
 ### Prompt Libraries & Templates
 
 Pre-built prompts optimized for common coding tasks.
