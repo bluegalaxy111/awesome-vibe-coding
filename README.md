@@ -798,6 +798,8 @@ Tools and resources for comparing AI coding assistants and measuring performance
 - [Simon Willison's Blog](https://simonwillison.net) - One of the most insightful voices on practical AI tool usage. LLM, prompt engineering, and tool reviews.
 - [Swyx's AI Engineering Posts](https://www.latent.space/about) - Deep technical content at the intersection of AI and software engineering.
 - [An Opinionated Guide to Vibe Coding](https://roadmap.sh/articles/vibe-coding) - How to do vibe coding well without accumulating technical debt.
+- [Wikivibe](https://wikivibe.ru/en/) - Practical knowledge base for AI-assisted development with guides, a glossary, jobs, and a public MCP endpoint.
+
 ### YouTube Channels & Videos
 
 - [Fireship](https://www.youtube.com/@Fireship) - Fast-paced tech explainers (100-second format). Excellent coverage of AI coding tools.
@@ -1017,4 +1019,3 @@ I aim to review all PRs within 24 hours.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
-
