@@ -335,6 +335,8 @@ Turn designs, mockups, screenshots, and wireframes into working code.
 - [Relume](https://www.relume.io) - AI website builder that generates sitemaps and wireframes from text, then exports to Figma or Webflow. **[Paid]**
 - [Visily](https://www.visily.ai) - AI-powered wireframing and prototyping tool. Convert screenshots, sketches, or text to editable wireframes. **[Freemium]**
 - [Slicer](https://slicer.dev) - Capture interactive UI (animations, hover states) from live sites as AI-ready prompts. Pull components to a canvas for restyling, then export directly to Lovable, Claude Code, or Cursor. **[Design To Code]** **[Freemium]**
+- [screenshot-to-html](https://github.com/sevzq/screenshot-to-html) - Coding-agent skill (Cursor / Claude Code / Codex) that clones a UI screenshot into one self-contained, interactive HTML file via a render → screenshot → compare loop, then verifies the interactions in real Chrome. **[Free]** **[Open Source]**
+
 ## AI Debugging & Testing
 
 AI tools that help find bugs, generate tests, explain errors, and ensure code quality.
