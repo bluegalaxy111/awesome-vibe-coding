@@ -271,6 +271,7 @@ Platforms where you describe an app in plain English and get a working, deployab
 - [Lazy AI](https://www.getlazy.ai) - Build and deploy web apps from prompts with built-in backend, database support, and API integration. **[Freemium]**
 - [Marblism](https://www.marblism.com) - Generate SaaS boilerplate from descriptions. Outputs a deployable Next.js + Prisma + PostgreSQL codebase. **[Freemium]**
 - [Base44](https://base44.com) - AI-powered app builder (acquired by Wix). Build web apps from natural language descriptions. **[Freemium]**
+- [Playcode](https://playcode.io/ai-website-builder) - AI website and app builder with visual editing, hosting, and custom domains. **[Freemium]**
 - [Bubble](https://bubble.io) - Visual no-code app builder with AI assistance. One of the most mature no-code platforms. **[Freemium]**
 - [GPT Engineer (web)](https://gptengineer.app) - Web version of GPT Engineer. Describe → build → deploy with a visual interface. **[Freemium]**
 - [Vercel AI Playground](https://vercel.com/ai) - Vercel's suite of AI tools for building and deploying AI-powered web applications. **[Freemium]**
@@ -1017,4 +1018,3 @@ I aim to review all PRs within 24 hours.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
-
