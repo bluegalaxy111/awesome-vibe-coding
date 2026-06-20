@@ -412,6 +412,7 @@ The emerging discipline of feeding AI the right context to improve output qualit
 - [Repomix](https://github.com/yamadashy/repomix) - Pack your entire repository into a single AI-friendly file for pasting into LLM chats. Smart token management. **[Free]** **[Open Source]**
 - [code2prompt](https://github.com/mufeedvh/code2prompt) - Convert your codebase into an LLM-ready prompt with directory traversal, filtering, and token counting. **[Free]** **[Open Source]**
 - [Agentic Context](https://github.com/punkpeye/agentic-context) - Tools for structuring and managing context in agentic coding workflows. **[Free]** **[Open Source]**
+- [ax](https://github.com/Necmttn/ax) - Local telemetry and recall graph for AI coding agents. Turns Claude Code, Codex, Cursor, OpenCode, and Pi session history into searchable context, cost, tool, and skill analytics. **[Free]** **[Open Source]**
 - [AI Context Files](https://github.com/nicholasgriffintn/ai-context-files) - Proposed standard for `.context` files that help AI tools understand your project structure and conventions. **[Free]** **[Open Source]**
 - [Files to Prompt](https://github.com/simonw/files-to-prompt) - Simple CLI tool by Simon Willison to concatenate multiple files into a single prompt. **[Free]** **[Open Source]**
 - [Codetex](https://codetex.io) - Convert your code into context-optimized formats for AI consumption. **[Free]**
