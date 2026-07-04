@@ -352,6 +352,7 @@ AI tools that help find bugs, generate tests, explain errors, and ensure code qu
 - [Codex by Machinet](https://machinet.net) - AI unit test generation for Java. Generates JUnit tests with high code coverage. **[Freemium]**
 - [Diffblue Cover](https://www.diffblue.com) - Autonomous AI that writes Java unit tests at scale. Enterprise-focused. **[Paid]**
 - [Meticulous](https://www.meticulous.ai) - AI-generated end-to-end tests. Records user sessions and auto-generates tests that catch visual and functional regressions. **[Paid]**
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection. **[Free]**
 - [Playwright](https://playwright.dev) - Microsoft's end-to-end testing framework. AI agents generate Playwright tests for reliable cross-browser testing. **[Free]** **[Open Source]**
 - [Cypress](https://www.cypress.io) - Modern web testing framework. Combine with AI to auto-generate test suites for your vibe coded apps. **[Freemium]** **[Open Source]**
 - [Checkly](https://www.checklyhq.com) - Monitoring and testing for APIs and web apps. AI-assisted test creation with Playwright. **[Freemium]**
@@ -1017,4 +1018,3 @@ I aim to review all PRs within 24 hours.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
-
