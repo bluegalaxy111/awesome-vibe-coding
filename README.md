@@ -587,6 +587,7 @@ AI tools specifically for game creation and game assets.
 - [Convai](https://convai.com) - AI-powered conversation engine for game characters. Create NPCs that talk naturally. **[Freemium]**
 - [Promethean AI](https://www.prometheanai.com) - AI assistant for 3D world building and virtual environment creation. **[Paid]**
 - [Rosebud AI](https://www.rosebud.ai) - Build games from text descriptions with AI. Generates game mechanics, levels, and assets. **[Freemium]**
+- [Roblox GUI Maker](https://robloxguimaker.dev/) - Generate Roblox Studio GUI layouts and Lua starter code from natural language prompts. **[Free]**
 ## AI Git & Version Control
 
 AI tools for commit messages, changelogs, release notes, and git workflows.
