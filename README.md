@@ -835,6 +835,7 @@ Tools and resources for comparing AI coding assistants and measuring performance
 - *"AI-Assisted Programming"* by Tom Taulli - Comprehensive guide to coding with AI assistants and copilots.
 - *"The Pragmatic Programmer"* by David Thomas & Andrew Hunt - Timeless software craft principles that make vibe coding output much better.
 - *"Building LLM Apps"* by Valentina Alto - O'Reilly guide to building applications powered by large language models.
+- [*Vibe Coding with Confidence*](https://zalt.me/guides/vibe-coding) by Mahmoud Zalt - build apps that work beyond the demo. Plan, build, debug, harden, ship, operate, and scale.
 
 ### Newsletters
 
