@@ -464,6 +464,7 @@ From the official MCP repository maintained by Anthropic.
 ### Design
 
 - [Figma MCP Server](https://github.com/nicobailon-figma/figma-mcp) - Inspect Figma designs: layout, tokens, components, variants. Bridges the design-to-code gap.
+- [UIZZE](https://uizze.com) - UI reference research for coding agents: a free skill for design contracts and finish-gate reviews, plus MCP access to real web and iOS screens. **[Free Skill]**
 ### Search
 
 - [Brave Search MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Web search via Brave's API.
@@ -1017,4 +1018,3 @@ I aim to review all PRs within 24 hours.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
-
