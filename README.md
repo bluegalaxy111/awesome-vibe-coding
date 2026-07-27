@@ -448,6 +448,7 @@ From the official MCP repository maintained by Anthropic.
 - [Neo4j MCP Server](https://github.com/neo4j-contrib/mcp-neo4j) - Graph database queries and knowledge graph building.
 - [MySQL MCP Server](https://github.com/benborla/mcp-server-mysql) - Connect to and query MySQL databases.
 - [Redis MCP Server](https://github.com/redis/mcp-redis) - Interact with Redis for caching and data operations.
+- [Nhost MCP Server](https://github.com/nhost/nhost/tree/main/cli) - Manage Nhost Cloud and local projects: run GraphQL queries and mutations with permissions, apply migrations, edit Hasura metadata, and search the docs.
 ### Productivity & Business
 
 - [Notion MCP Server](https://github.com/makenotion/notion-mcp-server) - Search, read, and create Notion pages and databases.
