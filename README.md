@@ -226,6 +226,7 @@ AI agents that operate from your terminal, reading, writing, and executing code 
 - [Plandex](https://github.com/plandex-ai/plandex) - Terminal-based AI coding agent designed for complex, multi-file tasks with built-in version control for AI changes. **[Free]** **[Open Source]**
 - [Amp](https://amp.dev) - AI coding agent from Sourcegraph. Terminal and IDE modes with deep code intelligence integration. **[Free Tier Available]**
 - [Blackbox AI](https://www.blackbox.ai) - Multi-model AI coding agent that uses a "Chairman" architecture - sends tasks to multiple models in parallel and picks the best result. **[Freemium]**
+- [Grinta](https://github.com/josephsenior/Grinta-Coding-Agent) - Local-first Python terminal coding agent built for long-running autonomous work, with multiple model providers, MCP clients, durable checkpoints, recovery scaffolding, LSP/DAP integration, and validation-gated completion. **[Free]** **[Open Source]**
 ### Browser-Based
 
 Full development environments that run in your browser - no local setup required.
